@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Hello go")
 	fmt.Println(maths.Add(1, 2))
 	fmt.Println(randomdata.SillyName())
+	fmt.Println(randomdata.SillyName())
 }
